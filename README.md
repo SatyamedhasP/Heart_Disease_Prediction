@@ -4,7 +4,7 @@ The project utilizes demographic and medical data to identify factors that incre
 
 ## Table of contents
 - [Introduction](#Introduction)
-- [Research Question](#Research Question)
+- [Research Question](#Research-Question)
 - [Data Exploration](#Data Exploration)
 - [Data Cleaning](#Data Cleaning)
 - [Data Visualization](#Data Visualization)
