@@ -9,6 +9,7 @@ The project utilizes demographic and medical data to identify factors that incre
 - [Data Cleaning](#Data-Cleaning)
 - [Data Visualization](#Data-Visualization)
 - [Data Preprocessing](#Data-Preprocessing)
+- [Building Classifiers](#Building-Classifiers)
 - [Results and Evaluation](#Results-and-Evaluation)
 - [Findings and Insights](#Findings-and-Insights)
 
@@ -104,6 +105,24 @@ Note: The remaining visualizations can be found in the project notebook.
 - And the second dataset consisted of only diabetes patients. 
 - In the datasets defined, we did not want other diseases such as Asthma, Kidney Disease, etc and hence we decided to drop the attributes with respect to our research questions. 
 - For the skin cancer, the diabetes attribute was dropped and vice-versa for the diabetes dataset.
+
+### Building Classifiers
+- The problem at hand being a classification problem, decided to work with multiple classification machine learning algorithms. 
+- The prediction algorithms used for the skin cancer patient’s dataset and diabetic patients dataset were Logistic Regression, K-Nearest Neighbors, Decision Tree, Random Forest, Naïve Bayes, and Artificial Neural Networks. 
+- To move ahead with building machine learning prediction models, the datasets were first split into training and testing datasets for the skin cancer dataset and diabetes dataset. 
+- 70% of the data was set to training and 30% was defined for testing. 
+- As this is a classification problem, trying to predict heart disease, several classifiers were built. 
+- One common function was defined to provide the scores of the model, confusion matrix, and the classification report. 
+- Passing the model and the test data as the argument in the function would provide all the desired outputs.
+
+### Results and Evaluation
+1. Evaluation Metrics:
+The models were evaluated based on common essential classification performance metrics which include recall (REC), precision (PRE), f1-score, accuracy, and receiver operating characteristic curve (ROC) and area under the ROC curve (AUC).
+
+2. Results:
+- Patients with Skin Cancer
+
+
 
 
 
