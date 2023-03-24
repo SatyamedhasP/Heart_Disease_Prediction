@@ -5,12 +5,12 @@ The project utilizes demographic and medical data to identify factors that incre
 ## Table of contents
 - [Introduction](#Introduction)
 - [Research Question](#Research-Question)
-- [Data Exploration](#Data Exploration)
-- [Data Cleaning](#Data Cleaning)
-- [Data Visualization](#Data Visualization)
-- [Data Preprocessing](#Data Preprocessing)
-- [Results and Evaluation](#Results and Evaluation)
-- [Findings and Insights](#Findings and Insights)
+- [Data Exploration](#Data-Exploration)
+- [Data Cleaning](#Data-Cleaning)
+- [Data Visualization](#Data-Visualization)
+- [Data Preprocessing](#Data-Preprocessing)
+- [Results and Evaluation](#Results-and-Evaluation)
+- [Findings and Insights](#Findings-and-Insights)
 
 ### Introduction
 Cardiovascular disease is the main cause of mortality in both the United States and the rest of the globe. Heart disease is the leading cause of death in the United States, accounting for 655,000 deaths annually. Nearly half of individuals in the United States suffer from cardiovascular disease. It affects both genders. In fact, one in three female deaths is caused by cardiovascular disease. It impacts individuals of various ages, races, and socioeconomic statuses. High levels of blood pressure and cholesterol, smoking and alcohol consumption, an unhealthy diet full of fat, sodium, and sugar, obesity, a family long history of heart illnesses, and chronic diseases are heart disease leading factors. Chronic disease is deemed to be a key driver that accelerates the development of cardiovascular disease. Among these chronic diseases are diabetes and various types of cancer such as skin cancer.
