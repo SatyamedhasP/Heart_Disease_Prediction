@@ -128,6 +128,10 @@ The models were evaluated based on common essential classification performance m
     <img src="https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Skin%20cancer%20CM.png" width="33%" />
 </div>
 
+    - As per the model comparison graph, the Logistic Regression algorithm has the highest accuracy. Artificial Neural Networks algorithm has the second-highest accuracy. The logistic Regression algorithm also provides the highest precision as compared to others.
+    - We can interpret from the ROC curve that the highest AUC score is shown by the Logistic Regression algorithm with a score of 0.75. The ANN model presents a very low AUC score of 0.50 as compared to the Logistic Regression AUC score of 0.75. This was interesting to observe as the accuracy of the ANN model and the Logistic Regression model were almost the same.
+    - To enhance the model, used Grid Search CV. The accuracy increased to 83.42% from 83.4%.
+
 - Patients with Diabetes
 
 <div style="display:flex;flex-direction:row">
@@ -136,6 +140,11 @@ The models were evaluated based on common essential classification performance m
     <img src="https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Diabete%20CM.png" width="33%" />
 </div>
 
+- For the diabetic dataset, the highest accuracy was achieved by the Logistic Regression algorithm as well. The ANN algorithm worked with almost the same accuracy when used with Dropout and Early stopping.
+- The highest precision was calculated for the ANN model.
+- From the ROC curve, the highest AUC score can be seen for the Logistic Regression Algorithm with an AUC score of 0.72.
+- Similar to the skin cancer dataset, the ANN model for the diabetic dataset presents a very low AUC score of 0.51 as compared to the Logistic Regression AUC score of 0.72
+- To enhance the model, used Grid Search CV. The accuracy increased to 79.24% from 79.2%
 
 ### Findings and Insights
 Even though the best-built models might not be optimal in terms of accuracy, there are significant insights that can be drawn from this project which are as follow:
@@ -143,13 +152,3 @@ Even though the best-built models might not be optimal in terms of accuracy, the
 1. Increasing the number of instances might help in getting higher-accuracy classification models.
 2. Incorporating new empirically or theoretically evident features in particular those correlated to heart diseases such as family history and unhealthy diet may greatly affect the accuracy level of the models.
 3. In evaluating the models, it is vital to not rely one performance metric. We see how both logistic regression and ANN classifiers have very similar accuracy scores and they greatly differ in AUC scores.
-
-
-
-
-
-
-
-
-
-
