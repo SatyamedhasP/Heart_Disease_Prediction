@@ -123,10 +123,23 @@ The models were evaluated based on common essential classification performance m
 - Patients with Skin Cancer
 
 <div style="display:flex;flex-direction:row">
-    <img src="Heart_Disease_Prediction/Project%20Images/Skin%20Cancer%20-%20model%20copmarison.png" width="30%" />
-    <img src="Heart_Disease_Prediction/Project%20Images/Skin%20Cancer%20-%20ROC.png" width="30%" />
-    <img src="Heart_Disease_Prediction/Project%20Images/Skin%20Cancer%20CM.png" width="30%" />
+    <img src="https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Skin%20Cancer%20-%20model%20copmarison.png" width="33%" />
+    <img src="https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Skin%20cancer%20-%20ROC.png" width="33%" />
+    <img src="https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Skin%20cancer%20CM.png" width="33%" />
 </div>
+
+- Patients with Diabetes
+
+<div style="display:flex;flex-direction:row">
+    <img src="https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Diabetes%20model%20comparison.png" width="33%" />
+    <img src="https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/ROC%20curve.png" width="33%" />
+    <img src="https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Diabete%20CM.png" width="33%" />
+</div>
+
+
+
+
+
 
 
 
