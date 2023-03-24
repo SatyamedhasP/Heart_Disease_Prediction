@@ -66,19 +66,25 @@ Here are few examples of data visualization to get a better understanding of the
 
 1. Heart Disease as per age catgeory:
 
-![Heart Disease as per age catgeory](https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Heart%20disease%20vs%20age%20category.png)
+<p align="center">
+  <img src="https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Heart%20disease%20vs%20age%20category.png" width="50%">
+</p>
 
 We can interpret that the age category 80 or older and 70-74 have the highest number of heart diseases. Age groups from 65-69 and 75-79 almost have the same number of heart diseases. The lowest heart diseases are found in the categories 18-24 and 25-29
 
 2. Patients having skin cancer:
 
-![Patients having skin cancer](https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Heart%20disease%20vs%20skin%20cancer.png)
+<p align="center">
+  <img src="https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Heart%20disease%20vs%20skin%20cancer.png" width="50%">
+</p>
 
 The above distribution indicates the number of skin cancer patients who were diagnosed with heart disease compared to patients who did not have skin cancer.
 
 3. Heatmap:
 
-![Heatmap](https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Heatmap.png)
+<p align="center">
+  <img src="https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Heatmap.png" width="40%">
+</p>
 
 Note: The remaining visualizations can be found in the project notebook.
 
