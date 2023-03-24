@@ -50,9 +50,16 @@ The dataset consists of 400k adults from a survey which was conducted by the Cen
 Attribute Heart Disease is the target variable in the dataset. There are 9 Boolean attributes, 5 string attributes, and 4 decimal attributes in the dataset.
 
 Statistical Summary:
-![Statistical Summary]()
+
+![Statistical Summary](https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project%20Images/Statistical%20summary.png)
 
 ### Data Cleaning
 There were no missing values in the dataset. Hence, there was no need to replace the values, add any values using the mean of the attributes or drop instances from the dataset.
 
 ### Data Visualization
+Here are few examples of data visualization to get a better understanding of the data in the heart disease dataset.
+
+1. Heart Disease as per age
+
+
+
