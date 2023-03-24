@@ -137,6 +137,13 @@ The models were evaluated based on common essential classification performance m
 </div>
 
 
+### Findings and Insights
+Even though the best-built models might not be optimal in terms of accuracy, there are significant insights that can be drawn from this project which are as follow:
+
+1. Increasing the number of instances might help in getting higher-accuracy classification models.
+2. Incorporating new empirically or theoretically evident features in particular those correlated to heart diseases such as family history and unhealthy diet may greatly affect the accuracy level of the models.
+3. In evaluating the models, it is vital to not rely one performance metric. We see how both logistic regression and ANN classifiers have very similar accuracy scores and they greatly differ in AUC scores.
+
 
 
 
