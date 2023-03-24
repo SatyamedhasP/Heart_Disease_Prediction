@@ -2,6 +2,10 @@
 This project aims to predict the likelihood of heart disease in patients with either diabetes or skin cancer using machine learning algorithms. 
 The project utilizes demographic and medical data to identify factors that increase the risk of heart disease in these patients, with the ultimate goal of improving patient care through early intervention and treatment.
 
+- Libraries used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tensorflow, Keras
+
+- Notebook link: [Heart_Disease_Prediction](https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project_Notebook/Heart_Disease_Prediction.ipynb)
+
 ## Table of contents
 - [Introduction](#Introduction)
 - [Research Question](#Research-Question)
