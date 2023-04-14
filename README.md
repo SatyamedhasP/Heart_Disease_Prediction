@@ -6,7 +6,7 @@ The project utilizes demographic and medical data to identify factors that incre
 
 - Notebook link: [Heart_Disease_Prediction](https://github.com/SatyamedhasP/Heart_Disease_Prediction/blob/main/Project_Notebook/Heart_Disease_Prediction.ipynb)
 
-- For Diabetic patients, try the app out [here](https://satyamedhasp-heart-disease-prediction-app-8tzfs1.streamlit.app/).
+- For Diabetic patients, try the app out [here](https://heart-disease-predictor-diabetes.streamlit.app/).
 
 ## Table of contents
 - [Introduction](#Introduction)
